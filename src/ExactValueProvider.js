@@ -1,5 +1,5 @@
 export default class ExactValueProvider{
 	giveMeOneHundredth(){
-		return 0.01;
+		return 0.1;
 	}
 }
